@@ -66,6 +66,10 @@ button {
   font-weight: bold;
 }
 
+button.hold{
+  background-color: #59E391;
+}
+
 button.roll-dice {
   height: 50px;
   white-space: nowrap;
